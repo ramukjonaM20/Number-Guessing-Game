@@ -24,13 +24,13 @@ In this game, the computer selects a random number within a specified range, and
 * **Tkinter/PyQt (Optional):** For creating an optional GUI version of the game.
 
 ## How to Play
-1. When the game starts, the computer will select a random number within a predefined range (e.g., 1 to 100).
-2. You will have a limited number of attempts to guess the number correctly.
-3. Enter your guess. After each guess, the game will provide feedback:
+**1.** When the game starts, the computer will select a random number within a predefined range (e.g., 1 to 100).
+**2.** You will have a limited number of attempts to guess the number correctly.
+**3.** Enter your guess. After each guess, the game will provide feedback:
     * If the guess is too high, it will prompt you to try a lower number.
     * If the guess is too low, it will prompt you to try a higher number.
     * If the guess is correct, you win the game!
-4. If you run out of attempts, the game will reveal the correct number.
+**4.** If you run out of attempts, the game will reveal the correct number.
 
 ## Future Enhancements
 Some possible improvements for future iterations of this project include:
