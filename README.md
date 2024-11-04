@@ -3,17 +3,17 @@
 A simple number guessing game where the computer randomly selects a number, and the player tries to guess it within a limited number of attempts. This project is created using Python and can be run in a console or optionally with a graphical user interface (GUI) using Tkinter.
 
 ## Table of Contents
-* Project Description
-* Features
-* Technologies Used
-* How to Play
+* [Project Description](#project-description)
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [How to Play](#how-to-play)
 * [Future Enhancements](#future-enhancements)
 
 ## Project Description
 In this game, the computer selects a random number within a specified range, and the player has to guess the number in a limited number of attempts. The game provides feedback on whether the player’s guess is too high, too low, or correct. This project was initially developed as a console-based game and can be enhanced with a graphical interface using Tkinter or PyQt.
 
 ## Features
-* Random Number Generation: The game generates a random number within a specified range, making it challenging and replayable.
+* **Random Number Generation:** The game generates a random number within a specified range, making it challenging and replayable.
 * Player Input: Allows the player to input guesses through the console. Optionally, a GUI input box can be used.
 * Hint System: Provides hints to the player if the guess is too high, too low, or correct.
 * Attempts Tracking: Limits the number of attempts and displays the remaining attempts after each guess.
