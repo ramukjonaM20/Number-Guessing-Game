@@ -1,4 +1,4 @@
-# Number-Guessing-Game
+# Guess The Number
 
 A simple number guessing game where the computer randomly selects a number, and the player tries to guess it within a limited number of attempts. This project is created using Python and can be run in a console or optionally with a graphical user interface (GUI) using Tkinter.
 
