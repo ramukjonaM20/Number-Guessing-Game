@@ -7,7 +7,7 @@ A simple number guessing game where the computer randomly selects a number, and 
 * Features
 * Technologies Used
 * How to Play
-* Future Enhancements
+* [Future Enhancements](#future-enhancements)
 
 ## Project Description
 In this game, the computer selects a random number within a specified range, and the player has to guess the number in a limited number of attempts. The game provides feedback on whether the player’s guess is too high, too low, or correct. This project was initially developed as a console-based game and can be enhanced with a graphical interface using Tkinter or PyQt.
